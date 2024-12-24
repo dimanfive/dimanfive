@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dmitry
-- 👀 I’m interested  develop your own software
+- 👀 I'm interested in developing my own software
 - 🌱 I’m currently learning neural networks
 - 💞️ I’m looking to collaborate on with large companies 
 - 📫 How to reach me dmitriy.zharkov1991@gmail.com
